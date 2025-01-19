@@ -1,1 +1,1 @@
-print(Nowy plik w nowej gałęzi)
+print("nowy plik")
