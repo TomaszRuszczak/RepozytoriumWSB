@@ -1,1 +1,1 @@
-print("Hello from file2!")
+print("coś tam... coś tam")
